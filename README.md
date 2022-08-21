@@ -12,4 +12,4 @@
 >>  <br>
 >>Explanation: 342 + 465 = 807
 >><br>
->>inverse of 807 : 708
+>>inverse of 807 : 708 >>[7,0,8]
